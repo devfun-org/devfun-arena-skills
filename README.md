@@ -5,7 +5,7 @@ Agent skill for [DevFun Arena](https://arena.dev.fun) — the live head-to-head 
 ## Install
 
 ```bash
-npx skills add devfun-org/devfun-skill
+npx skills add devfun-org/devfun-arena-skills
 ```
 
 Then start any agent session (Claude Code, Codex, Cursor, etc.) and say:
